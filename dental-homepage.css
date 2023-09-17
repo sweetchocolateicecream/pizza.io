@@ -1,0 +1,843 @@
+.background1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-200);
+  width: 1840px;
+  height: 432px;
+}
+.history {
+  margin: 0;
+}
+.about-us-history-container {
+  position: absolute;
+  top: 42px;
+  left: 1px;
+  letter-spacing: 0.07em;
+  line-height: 36px;
+  display: inline-block;
+  width: 271px;
+  height: 182px;
+}
+.patient-information {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-2xl);
+  letter-spacing: 0.03em;
+  color: var(--color-white);
+  display: inline-block;
+  width: 216px;
+}
+.column-1,
+.column-2,
+.column-3 {
+  position: absolute;
+  top: 76px;
+  left: 64px;
+  width: 272px;
+  height: 224px;
+}
+.column-2,
+.column-3 {
+  left: 352px;
+}
+.column-3 {
+  left: 640px;
+}
+.west-street-2nd-container {
+  top: 47px;
+  left: 2px;
+  letter-spacing: 0.07em;
+  line-height: 26px;
+  width: 207px;
+  height: 83px;
+}
+.contact-us2,
+.infodentaprocom,
+.west-street-2nd-container {
+  position: absolute;
+  display: inline-block;
+}
+.infodentaprocom {
+  top: 138px;
+  left: 42px;
+  letter-spacing: 0.07em;
+  line-height: 36px;
+  width: 271px;
+  height: 182px;
+}
+.contact-us2 {
+  top: 0;
+  left: 1px;
+  font-size: var(--font-size-2xl);
+  letter-spacing: 0.03em;
+  color: var(--color-white);
+  width: 216px;
+}
+.icon-mail,
+.icon-phone {
+  position: absolute;
+  top: 180px;
+  left: 1px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.icon-phone {
+  top: 144px;
+  left: 0;
+}
+.column-4 {
+  position: absolute;
+  top: 76px;
+  left: 927px;
+  width: 313px;
+  height: 320px;
+}
+.copyright-2023 {
+  position: absolute;
+  top: 181px;
+  left: 216px;
+  letter-spacing: 0.07em;
+  line-height: 26px;
+  text-align: right;
+}
+.input {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 288px;
+  height: 48px;
+}
+.your-email-address {
+  position: absolute;
+  top: 12px;
+  left: 16px;
+  letter-spacing: 0.07em;
+  line-height: 26px;
+}
+.button1 {
+  position: absolute;
+  top: 0;
+  left: 288px;
+  background-color: var(--color-white);
+  width: 128px;
+  height: 48px;
+}
+.submit {
+  position: absolute;
+  top: 19px;
+  left: 332px;
+  font-size: var(--font-size-3xs);
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  font-family: var(--font-pt-sans);
+  color: var(--color-gray-100);
+  text-align: center;
+}
+.form,
+.social-icon {
+  position: absolute;
+  top: 53px;
+  left: 1px;
+  width: 416px;
+  height: 48px;
+}
+.social-icon {
+  height: 2.4%;
+  width: 99.76%;
+  top: 97.6%;
+  right: 0;
+  bottom: 0;
+  left: 0.24%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.column-5 {
+  position: absolute;
+  top: 76px;
+  left: 1359px;
+  width: 417.18px;
+  height: 982.08px;
+  font-size: var(--font-size-sm);
+}
+.footer {
+  position: absolute;
+  top: 4368px;
+  left: 0;
+  width: 1840px;
+  height: 1058.08px;
+  color: var(--color-darkgray);
+  font-family: var(--font-poppins);
+}
+.image-icon1,
+.image-icon2 {
+  position: absolute;
+  top: 0;
+  left: 910px;
+  width: 560px;
+  height: 688px;
+  object-fit: cover;
+}
+.image-icon2 {
+  top: 144px;
+  left: 46px;
+  height: 800px;
+}
+.happysmile {
+  margin: 0;
+  color: var(--color-cadetblue);
+}
+.be-featured-happysmile-container {
+  position: absolute;
+  top: 64px;
+  left: 666px;
+  letter-spacing: -0.01em;
+  display: inline-block;
+  width: 640px;
+  height: 184px;
+}
+.anna-marie,
+.lisamaria99,
+.marcopolono {
+  position: absolute;
+  top: 842px;
+  left: 1312px;
+  line-height: 46px;
+}
+.lisamaria99,
+.marcopolono {
+  top: 148px;
+  left: 1470px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.lisamaria99 {
+  top: 912px;
+  left: 0;
+}
+.div,
+.dr-giovanni-is-container {
+  position: absolute;
+  font-family: var(--font-playfair-display);
+}
+.div {
+  top: 656px;
+  left: 734px;
+  font-size: 200px;
+  color: #e1f1f8;
+}
+.dr-giovanni-is-container {
+  top: 748px;
+  left: 793px;
+  font-size: 35px;
+  line-height: 46px;
+  display: inline-block;
+  color: var(--color-cadetblue);
+  width: 664px;
+  height: 92px;
+}
+.quote,
+.reviews-section {
+  position: absolute;
+  width: 1516px;
+}
+.quote {
+  top: 16px;
+  left: 0;
+  height: 923px;
+  font-size: var(--font-size-4xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-poppins);
+}
+.reviews-section {
+  top: 3288px;
+  left: 162px;
+  height: 944px;
+  font-size: var(--font-size-45xl);
+}
+.background2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(257.12deg, #ccdde4, #e1f1f8);
+  width: 1840px;
+  height: 744px;
+  opacity: 0.5;
+}
+.everything-you-need1 {
+  position: absolute;
+  top: 132px;
+  left: 62px;
+  font-size: var(--font-size-45xl);
+  letter-spacing: -0.01em;
+  display: inline-block;
+  font-family: var(--font-pt-sans);
+  color: var(--color-gray-100);
+  width: 516px;
+  height: 184px;
+}
+.regular-check-ups-and1 {
+  position: absolute;
+  top: 101px;
+  left: 10px;
+  letter-spacing: 0.07em;
+  line-height: 36px;
+  display: inline-block;
+  width: 271px;
+  height: 117px;
+}
+.preventive-care3 {
+  position: absolute;
+  top: 59px;
+  left: 9px;
+  font-size: var(--font-size-2xl);
+  letter-spacing: 0.03em;
+  color: var(--color-black);
+  display: inline-block;
+  width: 272px;
+  height: 25px;
+}
+.icon6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.widget-12 {
+  position: absolute;
+  top: 139px;
+  left: 633px;
+  width: 281px;
+  height: 218px;
+}
+.fillings-crowns-bridges1 {
+  position: absolute;
+  top: 101px;
+  left: 5px;
+  letter-spacing: 0.07em;
+  line-height: 36px;
+  display: inline-block;
+  width: 271px;
+  height: 117px;
+}
+.restorative-care2 {
+  position: absolute;
+  top: 59px;
+  left: 4px;
+  font-size: var(--font-size-2xl);
+  letter-spacing: 0.03em;
+  color: var(--color-black);
+  display: inline-block;
+  width: 272px;
+}
+.widget-22 {
+  position: absolute;
+  top: 139px;
+  left: 1067px;
+  width: 276px;
+  height: 218px;
+}
+.orthodontic-care1 {
+  position: absolute;
+  top: 59px;
+  left: 4px;
+  font-size: var(--font-size-2xl);
+  letter-spacing: 0.03em;
+  color: var(--color-black);
+  display: inline-block;
+  width: 238px;
+}
+.widget-32 {
+  position: absolute;
+  top: 139px;
+  left: 1500px;
+  width: 276px;
+  height: 218px;
+}
+.extractions-wisdom-teeth1 {
+  position: absolute;
+  top: 101px;
+  left: 7px;
+  letter-spacing: 0.07em;
+  line-height: 36px;
+  display: inline-block;
+  width: 271px;
+  height: 117px;
+}
+.oral-surgery1 {
+  position: absolute;
+  top: 59px;
+  left: 6px;
+  font-size: var(--font-size-2xl);
+  letter-spacing: 0.03em;
+  color: var(--color-black);
+  display: inline-block;
+  width: 274px;
+}
+.widget-41 {
+  position: absolute;
+  top: 403px;
+  left: 634px;
+  width: 280px;
+  height: 218px;
+}
+.teeth-whitening-veneers1 {
+  position: absolute;
+  top: 98px;
+  left: 3px;
+  letter-spacing: 0.07em;
+  line-height: 36px;
+  display: inline-block;
+  width: 271px;
+  height: 117px;
+}
+.cosmetic-dentistry2 {
+  position: absolute;
+  top: 56px;
+  left: 2px;
+  font-size: var(--font-size-2xl);
+  letter-spacing: 0.03em;
+  color: var(--color-black);
+  display: inline-block;
+  width: 274px;
+}
+.icon10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 34px;
+  height: 34px;
+  object-fit: cover;
+}
+.widget-51 {
+  position: absolute;
+  top: 406px;
+  left: 1070px;
+  width: 276px;
+  height: 215px;
+}
+.dental-implants-are1 {
+  position: absolute;
+  top: 101px;
+  left: 6px;
+  letter-spacing: 0.07em;
+  line-height: 36px;
+  display: inline-block;
+  width: 271px;
+  height: 117px;
+}
+.dental-implants1 {
+  position: absolute;
+  top: 59px;
+  left: 5px;
+  font-size: var(--font-size-2xl);
+  letter-spacing: 0.03em;
+  color: var(--color-black);
+  display: inline-block;
+  width: 274px;
+}
+.widget-61 {
+  position: absolute;
+  top: 403px;
+  left: 1499px;
+  width: 279px;
+  height: 218px;
+}
+.services-section1 {
+  position: absolute;
+  top: 1784px;
+  left: 0;
+  width: 1840px;
+  height: 744px;
+  color: var(--color-darkgray);
+  font-family: var(--font-poppins);
+}
+.image-icon3,
+.outline {
+  position: absolute;
+  width: 560px;
+  height: 688px;
+}
+.outline {
+  top: 32px;
+  left: 592px;
+  border: 1px solid var(--color-cadetblue);
+  box-sizing: border-box;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+  opacity: 0.5;
+}
+.image-icon3 {
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+.dr-giovanni-is1,
+.professionals-you-can {
+  position: absolute;
+  left: 783px;
+  display: inline-block;
+}
+.professionals-you-can {
+  top: 204px;
+  letter-spacing: -0.01em;
+  width: 640px;
+  height: 184px;
+}
+.dr-giovanni-is1 {
+  top: 405px;
+  font-size: var(--font-size-lg);
+  line-height: 36px;
+  font-family: var(--font-poppins);
+  color: var(--color-darkgray);
+  width: 560px;
+  height: 212px;
+}
+.button-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 216px;
+  height: 40px;
+  object-fit: cover;
+}
+.request-and-appointment2 {
+  position: absolute;
+  top: 14px;
+  left: 6.48px;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 200.88px;
+}
+.cta-dr2 {
+  position: absolute;
+  top: 576px;
+  left: 784px;
+  width: 216px;
+  height: 40px;
+  text-align: center;
+  font-size: var(--font-size-3xs);
+  color: var(--color-white);
+}
+.team-section1 {
+  position: absolute;
+  top: 2456px;
+  left: 144px;
+  width: 1423px;
+  height: 720px;
+  font-size: var(--font-size-45xl);
+}
+.top-left-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(257.12deg, #ccdde4, #e1f1f8);
+  width: 538px;
+  height: 688px;
+  opacity: 0.5;
+}
+.image-icon4 {
+  position: absolute;
+  top: 72px;
+  left: 66px;
+  width: 704px;
+  height: 688px;
+  object-fit: cover;
+}
+.expert-dental-care {
+  position: absolute;
+  top: 132px;
+  left: 927px;
+  font-size: var(--font-size-45xl);
+  letter-spacing: -0.01em;
+  display: inline-block;
+  width: 640px;
+  height: 184px;
+}
+.regular-checkups-cleanings1 {
+  position: absolute;
+  top: 328px;
+  left: 930px;
+  font-size: var(--font-size-lg);
+  line-height: 36px;
+  font-family: var(--font-poppins);
+  color: var(--color-darkgray);
+  display: inline-block;
+  width: 560px;
+  height: 212px;
+}
+.button2 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  border-bottom: 2px solid var(--color-cadetblue);
+  box-sizing: border-box;
+  width: 69px;
+  height: 23px;
+}
+.learn-more4 {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  letter-spacing: 0.07em;
+}
+.cta-more1 {
+  position: absolute;
+  top: 608px;
+  left: 1145px;
+  width: 71px;
+  height: 23px;
+  text-align: center;
+  color: var(--color-cadetblue);
+}
+.button-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 168px;
+  height: 40px;
+  object-fit: cover;
+}
+.request-and-appointment3 {
+  position: absolute;
+  top: 14px;
+  left: 20px;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+}
+.cta-dr3 {
+  position: absolute;
+  top: 600px;
+  left: 930px;
+  width: 168px;
+  height: 40px;
+  text-align: center;
+  color: var(--color-white);
+}
+.about-section1 {
+  position: absolute;
+  top: 880px;
+  left: -2px;
+  width: 1567px;
+  height: 760px;
+  font-size: var(--font-size-3xs);
+}
+.visual-icon {
+  position: absolute;
+  top: 53px;
+  left: 562px;
+  width: 1216px;
+  height: 861px;
+  object-fit: cover;
+}
+.smile1 {
+  color: var(--color-gray-100);
+}
+.treat-yourself-with-container2 {
+  position: absolute;
+  top: 195px;
+  left: 0;
+  letter-spacing: -0.01em;
+}
+.white-background1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 848px;
+  height: 136px;
+}
+.learn-more5 {
+  position: absolute;
+  top: 75px;
+  left: 1px;
+  letter-spacing: 0.07em;
+  display: inline-block;
+  width: 104px;
+  height: 34px;
+}
+.arrow-icon3 {
+  position: absolute;
+  top: 82.32px;
+  left: 121px;
+  width: 9.5px;
+  height: 7.36px;
+  object-fit: cover;
+}
+.preventive-care4 {
+  position: absolute;
+  top: 33px;
+  left: 0;
+  font-size: var(--font-size-2xl);
+  letter-spacing: 0.03em;
+  color: var(--color-black);
+  display: inline-block;
+  width: 168px;
+}
+.b3 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.01em;
+  font-family: var(--font-pt-sans);
+  color: var(--color-cadetblue);
+}
+.widget-13,
+.widget-23 {
+  position: absolute;
+  top: 19px;
+  left: 15px;
+  width: 168px;
+  height: 109px;
+}
+.widget-23 {
+  left: 287px;
+}
+.cosmetic-dentistry3 {
+  position: absolute;
+  top: 33px;
+  left: 0;
+  font-size: var(--font-size-2xl);
+  letter-spacing: 0.03em;
+  color: var(--color-black);
+  display: inline-block;
+  width: 256px;
+}
+.subsection1,
+.widget-33 {
+  position: absolute;
+  top: 19px;
+  left: 576px;
+  width: 256px;
+  height: 109px;
+}
+.subsection1 {
+  top: 581px;
+  left: 2px;
+  width: 848px;
+  height: 136px;
+  font-size: var(--font-size-lg);
+  color: var(--color-darkgray);
+  font-family: var(--font-poppins);
+}
+.main-section {
+  position: absolute;
+  top: -53px;
+  left: 62px;
+  width: 1778px;
+  height: 861px;
+  font-size: 96px;
+}
+.request-and-appointment4 {
+  position: absolute;
+  top: 15px;
+  left: 17px;
+  letter-spacing: 0.07em;
+}
+.top-cta {
+  top: 0;
+  left: 1544px;
+  width: 168px;
+  height: 40px;
+  text-align: center;
+  color: var(--color-white);
+}
+.about,
+.home1,
+.top-cta {
+  position: absolute;
+}
+.home1 {
+  top: 0;
+  left: 0;
+  letter-spacing: 0.1em;
+  color: var(--color-cadetblue);
+}
+.about {
+  left: 188px;
+}
+.about,
+.blog1,
+.services2 {
+  top: 0;
+  letter-spacing: 0.1em;
+}
+.services2 {
+  position: absolute;
+  left: 383px;
+}
+.blog1 {
+  left: 599px;
+}
+.blog1,
+.contact,
+.menu {
+  position: absolute;
+}
+.contact {
+  top: 0;
+  left: 783px;
+  letter-spacing: 0.1em;
+}
+.menu {
+  top: 14px;
+  left: 386px;
+  width: 847px;
+  height: 14px;
+  font-size: var(--font-size-xs);
+}
+.pro {
+  color: var(--color-cadetblue);
+}
+.dentapro {
+  position: absolute;
+  top: 6px;
+  left: 71px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 112px;
+}
+.header,
+.logo,
+.tooth-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 40px;
+}
+.tooth-icon {
+  width: 61px;
+  object-fit: cover;
+}
+.header,
+.logo {
+  width: 183px;
+  font-size: var(--font-size-5xl);
+}
+.header {
+  top: 27px;
+  left: 64px;
+  width: 1712px;
+  font-size: var(--font-size-3xs);
+}
+.dental-homepage {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 5662px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-100);
+  font-family: var(--font-pt-sans);
+}
