@@ -1,0 +1,234 @@
+.frame-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 774px;
+  object-fit: cover;
+}
+.product {
+  position: absolute;
+  top: 44px;
+  left: 2px;
+  line-height: 16px;
+}
+.frame-icon1 {
+  position: absolute;
+  top: 49px;
+  left: calc(50% + 28.58px);
+  width: 10px;
+  height: 7px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame4,
+.solutions {
+  position: absolute;
+  left: 0;
+}
+.frame4 {
+  top: 0;
+  width: 77.16px;
+  height: 98px;
+}
+.solutions {
+  top: 44px;
+  line-height: 16px;
+}
+.frame-icon2 {
+  top: 49px;
+  left: calc(50% + 32.89px);
+  width: 10px;
+  height: 7px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-icon2,
+.frame5,
+.learn {
+  position: absolute;
+}
+.frame5 {
+  top: 0;
+  left: 117.16px;
+  width: 85.78px;
+  height: 98px;
+}
+.learn {
+  top: 44px;
+  left: 1px;
+  line-height: 16px;
+}
+.frame-icon3 {
+  position: absolute;
+  top: 49px;
+  left: calc(50% + 21.1px);
+  width: 10px;
+  height: 7px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame6 {
+  position: absolute;
+  top: 0;
+  left: 242.94px;
+  width: 62.2px;
+  height: 98px;
+}
+.enterprise,
+.pricing {
+  position: absolute;
+  top: 45px;
+  left: 345.14px;
+  line-height: 16px;
+  display: flex;
+  text-align: left;
+  align-items: center;
+  width: 49.48px;
+  height: 14px;
+}
+.enterprise {
+  left: 434.42px;
+  width: 73.89px;
+}
+.frame3 {
+  position: absolute;
+  width: calc(100% - 308.39px);
+  top: calc(50% - 49px);
+  right: 308.39px;
+  left: 0;
+  height: 98px;
+}
+.sign-up {
+  position: relative;
+}
+.auto-layout-horizontal1 {
+  border-radius: var(--br-4xs);
+  background-color: #7b68ee;
+  box-shadow: 0 10px 25px rgba(124, 104, 238, 0.5);
+  padding: var(--padding-xs-5) 17.71875px var(--padding-smi-5)
+    var(--padding-mid);
+}
+.auto-layout-horizontal,
+.auto-layout-horizontal1,
+.auto-layout-horizontal2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.auto-layout-horizontal2 {
+  border-radius: var(--br-4xs);
+  background-color: #e9ebf0;
+  padding: var(--padding-xs-5) 17.4375px var(--padding-smi-5) var(--padding-mid);
+  text-align: left;
+  color: #292d34;
+}
+.auto-layout-horizontal {
+  position: absolute;
+  top: calc(50% - 20px);
+  left: 133.23px;
+  gap: var(--gap-3xs);
+}
+.contact-sales {
+  position: absolute;
+  top: 44px;
+  left: 4px;
+  line-height: 16px;
+}
+.frame2,
+.frame7 {
+  position: absolute;
+  top: calc(50% - 49px);
+  height: 98px;
+}
+.frame7 {
+  left: 701.61px;
+  width: 308.39px;
+}
+.frame2 {
+  width: calc(100% - 210px);
+  right: 10px;
+  left: 200px;
+}
+.frame-icon4 {
+  position: absolute;
+  top: 29px;
+  left: 10px;
+  width: 155px;
+  height: 38px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 610px);
+  width: 1220px;
+  height: 100px;
+}
+.clickup-brand-assets {
+  position: absolute;
+  top: 9px;
+  left: 339.02px;
+  line-height: 69px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 542.15px;
+  height: 50px;
+}
+.marketingclickupcom {
+  text-decoration: underline;
+}
+.discover-the-proper-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.discover-the-proper-container {
+  position: absolute;
+  top: 6px;
+  left: 4.25px;
+  line-height: 29px;
+  display: flex;
+  align-items: center;
+  width: 691.68px;
+  height: 45px;
+  opacity: 0.5;
+}
+.frame9 {
+  position: absolute;
+  top: 94px;
+  left: calc(50% - 350px);
+  width: 700px;
+  height: 58px;
+  opacity: 0.5;
+  font-size: 16px;
+}
+.image-icon {
+  position: absolute;
+  top: 177px;
+  left: calc(50% - 295px);
+  width: 590px;
+  height: 443px;
+  object-fit: cover;
+}
+.frame8 {
+  position: absolute;
+  top: 150px;
+  left: calc(50% - 610px);
+  width: 1220px;
+  height: 624px;
+  font-size: 50px;
+}
+.frame {
+  position: relative;
+  background-color: #fafbfc;
+  width: 100%;
+  height: 774px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
